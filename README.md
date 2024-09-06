@@ -1,5 +1,5 @@
 # 💫 About Me:
-Here's a simple "About Me" for you as a BSIS (Bachelor of Science in Information Systems) student:<br><br>---<br><br>**About Me**<br><br>I am currently pursuing a Bachelor of Science in Information Systems (BSIS), where I am honing my skills in technology, data management, and business processes. My passion lies in leveraging data and innovative solutions to solve real-world problems. With a growing interest in areas like web development, data analytics, and systems design, I am committed to continuously learning and adapting to the rapidly evolving tech landscape. I aim to use my knowledge to
+**About Me**<br><br>I am currently pursuing a Bachelor of Science in Information Systems (BSIS), where I am honing my skills in technology, data management, and business processes. My passion lies in leveraging data and innovative solutions to solve real-world problems. With a growing interest in areas like web development, data analytics, and systems design, I am committed to continuously learning and adapting to the rapidly evolving tech landscape. I aim to use my knowledge to
 
 
 ## 🌐 Socials:
