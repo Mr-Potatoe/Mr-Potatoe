@@ -1,5 +1,5 @@
 # 💫 About Me:
-**About Me**<br><br>I am currently pursuing a Bachelor of Science in Information Systems (BSIS), where I am honing my skills in technology, data management, and business processes. My passion lies in leveraging data and innovative solutions to solve real-world problems. With a growing interest in areas like web development, data analytics, and systems design, I am committed to continuously learning and adapting to the rapidly evolving tech landscape. I aim to use my knowledge to
+**About Me**<br><br>Currently working on a Bachelor of Science in Information Systems (BSIS) because who doesn’t love endless nights of debugging and data wrangling? I'm all about leveraging data and innovative solutions, or at least pretending to while chasing after the latest tech fads. My interests? Web development, data analytics, and systems design – basically, everything that makes the tech world go 'round. I’m committed to learning and adapting, mostly because I have no choice but to keep up with the constantly shifting tech circus.
 
 
 ## 🌐 Socials:
