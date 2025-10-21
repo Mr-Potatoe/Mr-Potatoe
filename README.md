@@ -1,3 +1,6 @@
+![Build](https://img.shields.io/github/actions/workflow/status/user/repo/build.yml)
+
+
 # 💫 About Me:
 **About Me**<br><br>Survived a Bachelor of Science in Information Systems (BSIS), which is basically four years of caffeine abuse, debugging nightmares, and pretending SQL errors were “learning opportunities.” Now I get to say I’m into web development, data analytics, and systems design—because apparently admitting that I scream at broken builds at 3 AM doesn’t look good on LinkedIn. I’m all about chasing innovation, or at least running after it while it drags me through yet another framework update. In short: I adapt, because technology doesn’t care if I keep up or collapse under its circus tent.
 
