@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Aj Arns (frankienstine)
+# 👋 Hi, I’m Aj Arns
 
 ## 💼 About Me
 BS Information Systems graduate and junior web developer with a strong foundation in IT systems and modern web development. I enjoy building responsive, user-focused applications, integrating APIs, and improving performance one refactor at a time. My background bridges technical implementation and business processes, which helps me design solutions that actually make sense in real-world use.
