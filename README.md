@@ -88,7 +88,12 @@ I’m continuously learning, experimenting, and shipping projects because techno
 ---
 
 ## ☕ Support
-If you like my work and want to support future projects:
 
+**International**
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/frankienstine)
+
+**Philippines (LandBank)**
+Scan the QR below using LandBank Mobile Banking.
+
+![LandBank QR](./landbank-qr.jpg)
 
