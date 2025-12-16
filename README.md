@@ -1,35 +1,94 @@
-# 💫 About Me:
-**About Me**<br><br>Earned a BS in Information Systems, which mostly means I survived endless projects, mysterious bugs, and professors who thought deadlines were a form of character development. I dabble in web development, data analytics, and systems design—basically anything that breaks often enough to keep life interesting. I keep up with new tech because it refuses to stop changing, and pretending I’m on top of it is apparently a marketable skill.
+# 👋 Hi, I’m Aj Arns (frankienstine)
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zakmadicc_47621) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kenshine.hizaru) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/frankienstine4?igsh=MTlqa25mOTAxb2t4cg==) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/48rp0aTEj) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Aj-Arns-Jayme) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/23902760/aj-arns-jayme) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mr.potatoe.tsx) 
+## 💼 About Me
+BS Information Systems graduate and junior web developer with a strong foundation in IT systems and modern web development. I enjoy building responsive, user-focused applications, integrating APIs, and improving performance one refactor at a time. My background bridges technical implementation and business processes, which helps me design solutions that actually make sense in real-world use.
 
-# 💻 Tech Stack:
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![React Native](https://img.shields.io/badge/react%20native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white) 
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white) 
-![Next JS](https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Railway](https://img.shields.io/badge/railway-%230B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+I’m continuously learning, experimenting, and shipping projects because technology evolves fast and standing still is not an option.
 
+---
 
+## 🛠️ What I Do
+- Build responsive and scalable web applications  
+- Develop frontend solutions using modern JavaScript frameworks  
+- Design and integrate RESTful APIs  
+- Improve performance, usability, and cross-browser compatibility  
+- Translate requirements into practical, working systems  
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.me/frankienstine) 
+---
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Tech Stack
+
+**Frontend**
+- HTML, CSS, JavaScript  
+- React, Next.js  
+- Responsive & mobile-first design  
+
+**Backend & Tools**
+- RESTful APIs  
+- MySQL, Prisma  
+- Git & version control  
+
+**Other Skills**
+- Basic machine learning concepts  
+- Performance optimization  
+- Microsoft Excel (formulas, PivotTables, basic data analysis)  
+
+---
+
+## 📜 Certifications / Eligibility
+- **Civil Service Professional Eligibility**  
+  Passed — May 02, 2025  
+
+---
+
+## 🧑‍💻 Experience
+
+### Junior Web Developer (Self-Employed)  
+**September 2024 – Present | Aurora, Zamboanga del Sur**
+- Designed and built responsive web applications using modern frameworks  
+- Worked with clients to gather requirements and deliver tailored solutions  
+- Improved existing codebases for better usability and visual consistency  
+- Ensured cross-browser and device compatibility  
+- Integrated APIs and basic third-party services  
+
+### IT Support Intern  
+**Zamboanga del Sur Provincial Government College – Aurora Campus**  
+**January 2025 – May 2025**
+- Assisted with basic hardware and software troubleshooting  
+- Helped collect, organize, and prepare system-related data for reports  
+- Participated in small-scale system improvements  
+- Gained hands-on exposure to real-world IT operations  
+
+### BS Information Systems Instructor  
+**Zamboanga del Sur Provincial Government College – Aurora Campus**  
+**August 2025 – December 2025**
+- Taught IS-related subjects  
+- Prepared learning modules, quizzes, and hands-on activities  
+- Guided students in basic programming and web development tasks  
+
+---
+
+## 🎓 Education
+- **Bachelor of Science in Information Systems** — 2025  
+  Zamboanga del Sur Provincial Government College  
+- **Information and Communication Technology** — 2021  
+  Aurora Pioneers Memorial College  
+- **Computer Systems Servicing** — 2019  
+  Commonwealth National High School  
+
+---
+
+## 🌐 Connect With Me
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zakmadicc_47621)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/kenshine.hizaru)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/frankienstine4)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23902760/aj-arns-jayme)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mr.potatoe.tsx)
+
+---
+
+## ☕ Support
+If you like my work and want to support future projects:
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/frankienstine)
+
