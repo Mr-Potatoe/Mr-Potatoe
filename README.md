@@ -92,8 +92,10 @@ I’m continuously learning, experimenting, and shipping projects because techno
 **International**
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/frankienstine)
 
-**Philippines (LandBank)**
-Scan the QR below using LandBank Mobile Banking.
+**Philippines (LandBank)**  
+Scan to donate via LandBank Mobile Banking.
 
-![LandBank QR](./landbank-qr.jpg)
+<p align="center">
+  <img src="./landbank-qr.jpg" alt="LandBank QR" width="200" />
+</p>
 
