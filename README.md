@@ -95,7 +95,5 @@ I’m continuously learning, experimenting, and shipping projects because techno
 **Philippines (LandBank)**  
 Scan to donate via LandBank Mobile Banking.
 
-<p align="center">
-  <img src="./landbank-qr.jpg" alt="LandBank QR" width="200" />
-</p>
+
 
